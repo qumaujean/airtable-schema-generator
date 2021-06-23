@@ -1,0 +1,17 @@
+{
+  "name": "airtable-schema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "airtableToPg.js",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "lodash": "^4.17.21",
+    "puppeteer": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node generate.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
