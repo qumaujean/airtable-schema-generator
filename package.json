@@ -1,8 +1,8 @@
 {
-  "name": "airtable-schema",
+  "name": "airtable-schema-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "airtableToPg.js",
+  "main": "generate.js",
   "dependencies": {
     "fs-extra": "^10.0.0",
     "lodash": "^4.17.21",
